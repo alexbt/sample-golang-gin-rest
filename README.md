@@ -1,0 +1,5 @@
+- `docker build -t mytest .`
+- `docker run -p 8080:8080 mytest`
+- `curl localhost:8080/test`
+- `curl localhost:8080/json`
+- `curl localhost:8080/user`
