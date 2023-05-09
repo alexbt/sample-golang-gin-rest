@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/alexbt/sample-golang/pkg/controller"
+	"github.com/alexbt/sample-golang-gin-rest/src/internal/controller"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
